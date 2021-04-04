@@ -7,6 +7,6 @@ tags: member
 author: Alice & Bob
 ---
 
-I'm ___,
+I'm _jeff__,
 
-I study a ___.
+I study a _ton__.
